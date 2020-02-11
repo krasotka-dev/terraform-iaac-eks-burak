@@ -9,10 +9,10 @@ s3_tfstate_file = "infrastructure.tfstate"   #Will be used to set backend.tf
 
 
 
-vpc_id = "vpc-1471ad6e"
-subnet1 = "subnet-c74d1e8d"
-subnet2 = "subnet-e4820eb8"
-subnet3 = "subnet-1fe46778"
+vpc_id = "vpc-bd4fb3d6"
+subnet1 = "subnet-5777f21b"
+subnet2 = "subnet-c3431eb9"
+subnet3 = "subnet-e98e6982"
 cluster_name = "cluster"
 instance_type = "t2.micro"
 asg_max_size = "48" 
