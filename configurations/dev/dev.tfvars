@@ -1,5 +1,5 @@
 environment = "dev"
-region = "us-east-1"
+region = "us-east-2"
 s3_bucket = "eks-anara-jenkins"              #Will be used to set backend.tf
 s3_folder_project = "application"            #Will be used to set backend.tf
 s3_folder_region = "us-east-1"               #Will be used to set backend.tf
